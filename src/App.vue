@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <o-calendare></o-calendar>
+    <o-calendar></o-calendar>
   </div>
 </template>
 
